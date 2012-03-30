@@ -1,0 +1,12 @@
+Changes
+lib/SWF/ForcibleConverter.pm
+Makefile.PL
+MANIFEST			This list of files
+MYMETA.json
+MYMETA.yml
+README
+t/00_compile.t
+t/01_load.t
+t/10_swfforcibleconverter.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
